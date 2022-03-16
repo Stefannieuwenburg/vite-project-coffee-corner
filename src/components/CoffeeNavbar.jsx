@@ -6,11 +6,11 @@ export default function CoffeeNavbar() {
         <div>
             <ul>
                 <li>
-                    <h3>Logo Coffee to go</h3>
+                    <h3>Logo Happy Coffee corner</h3>
                 </li>
-                
+
                 <li>
-                    <a href="#home">Coffee Conner</a>
+                    <a href="#home">Coffee Corner</a>
                 </li>
                 <li>
                     <a href="#BaristaNews">Barista News</a>
