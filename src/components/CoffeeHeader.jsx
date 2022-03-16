@@ -1,4 +1,4 @@
-import HeaderStyles from './HeaderStyles.module.scss';
+import HeaderStyles from '../css/HeaderStyles.module.scss';
     
     
 export default function CoffeeHeader() {

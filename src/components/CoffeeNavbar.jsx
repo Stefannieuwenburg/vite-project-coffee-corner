@@ -1,4 +1,4 @@
-import NavbarStyles from "./NavbarStyles.module.scss"
+import NavbarStyles from "../css/NavbarStyles.module.scss"
 
 
 export default function CoffeeNavbar() {

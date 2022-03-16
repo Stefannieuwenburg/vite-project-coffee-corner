@@ -1,4 +1,4 @@
-import MainStyles from "./MainStyles.module.scss"
+import MainStyles from "../css/MainStyles.module.scss"
 
 export default function CoffeeMain() {
     return (

@@ -1,4 +1,4 @@
-import FooterStyles from "./FooterStyles.module.scss"
+import FooterStyles from "../css/FooterStyles.module.scss"
 
 export default function CoffeeFooter() {
     return (
